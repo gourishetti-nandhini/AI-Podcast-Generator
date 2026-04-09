@@ -6,9 +6,8 @@ The AI Podcast Generator is a project that automatically converts user input int
 ✨ Features
 🎙️ Converts text input into podcast-style content
 🤖 Uses AI for content generation
-⚙️ Automated workflow integration (n8n)
+⚙️ Automated workflow integration using n8n
 🔄 End-to-end processing from input to output
-
 🛠️ Tech Stack
 JavaScript
 AI Tools
@@ -25,4 +24,3 @@ User provides input (topic/text)
 AI processes and generates structured content
 Workflow automates the steps
 Output is generated as podcast-style audio
-
